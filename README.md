@@ -1,5 +1,6 @@
 Codini
 ======
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/jakeaglass/codini?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Code Completion, Documentation, and Programming Teaching App; a plugin for Sublime Text 2/3 with companion web app for live code suggestions and docs, like MAGIC!
 
